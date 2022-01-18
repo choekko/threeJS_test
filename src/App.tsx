@@ -25,6 +25,7 @@ function App() {
       </div>
       <div className="notice">
         <span> 반응형 사이즈 조절 가능 </span>
+        <span> <span className='highlight'>모바일 Drag, Pinch, Spread</span> 에도 반응 </span>
           <span> 라이팅(lighting) 고정 상태로 회전할 수 있도록 구현 가능 </span>
       </div>
     </div>
